@@ -1,3 +1,4 @@
 # deepak_kumbhar_git
-<br>
-Hello git is awesome !!
+
+- This is a practice for learning Git & GitHub!!!!
+- Happy Exploring.
